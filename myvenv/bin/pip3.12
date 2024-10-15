@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/ubuntu/Desktop/Data Science/10 academy_ kifya/week_0/pythonapp/myvenv/bin/python3" "$0" "$@"
+'''exec' "/home/ubuntu/Desktop/Data Science/10Academy_ kifya/week_0/MoonLightEnergy_project/myvenv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
